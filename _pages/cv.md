@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Polytechnique Montréal, University of Montréal, Montréal, Canada, 2020
-* M.S. in Optical Engineering, Zhejiang University, Hangzhou, China, 2015
-* B.S. in Electrical Engineering, University of Electronic Science and Technology of China, Chengdu, China, 2012
+* Ph.D in Electrical Engineering, Polytechnique Montréal, University of Montréal, 2020
+  Thesis: [Towards Battery-Free Internet of Things (IoT) Sensors: Far-Field Wireless Power Transfer and Harmonic Backscattering](https://publications.polymtl.ca/5486/)
+  Supervisor: [Ke Wu](https://scholar.google.ca/citations?user=srJl90oAAAAJ&hl=en), Co-supervisor: [Simon Hemour](https://scholar.google.com/citations?user=rsOFyFQAAAAJ&hl=en) (University of Bordeaux)
+* M.S. in Optical Engineering, Zhejiang University, 2015
+* B.S. in Electrical Engineering, University of Electronic Science and Technology of China, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 01/2024 - present, University of Bristol
+  Lecturer in RF Systems Engineering 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01/2022 - 12/2023, McGill University 
+  FRQNT Research Postdoc Fellow
+  Supervisor: [Roni Khazaka](https://www.mcgill.ca/engineering/roni-khazaka)
+  
+* 01/2022 - 12/2023, Polytechnique Montréal 
+  Research Associate (part-time)
+  Supervisor: [Ke Wu](https://scholar.google.ca/citations?user=srJl90oAAAAJ&hl=en)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 01/2021 - 12/2021, Polytechnique Montréal 
+  Mitacs Accelerate Industrial Postdoc Fellow
+  Supervisor: [Ke Wu](https://scholar.google.ca/citations?user=srJl90oAAAAJ&hl=en)
