@@ -6,9 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-#{% include base_path %}
-
 Education
 ======
 * Ph.D in Electrical Engineering, Polytechnique Montréal, University of Montréal, 2020  
