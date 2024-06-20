@@ -8,6 +8,7 @@ redirect_from:
 --- 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Electrical Engineering, Polytechnique Montréal, University of Montréal, 2020  
