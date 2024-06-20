@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * 01/2024 - present, University of Bristol  
-  Lecturer in RF Systems Engineering 
+  Lecturer (Assistant Professor) in RF Systems Engineering 
 
 * 01/2022 - 12/2023, McGill University   
   FRQNT Research Postdoc Fellow  
