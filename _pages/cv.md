@@ -8,7 +8,7 @@ redirect_from:
 --- 
 
 
-
+Education
 ======
 * Ph.D in Electrical Engineering, Polytechnique Montréal, University of Montréal, 2020  
   Thesis: [Towards Battery-Free Internet of Things (IoT) Sensors: Far-Field Wireless Power Transfer and Harmonic Backscattering](https://publications.polymtl.ca/5486/)  
