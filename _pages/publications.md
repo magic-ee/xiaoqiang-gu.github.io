@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Below are selected publications and a full list can be accessed via [Google Scholar](https://scholar.google.com/citations?user=Wu2lsugAAAAJ&hl=en).></a></div>
-{% endif %}
+Below are selected publications and a full list can be accessed via [Google Scholar](https://scholar.google.com/citations?user=Wu2lsugAAAAJ&hl=en).
 
 {% include base_path %}
 
