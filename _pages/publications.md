@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=Wu2lsugAAAAJ&hl=en}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Below are selected publications and a full list can be accessed via [Google Scholar](https://scholar.google.com/citations?user=Wu2lsugAAAAJ&hl=en).></a></div>
 {% endif %}
 
 {% include base_path %}
