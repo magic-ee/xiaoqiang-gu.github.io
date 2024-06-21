@@ -1,9 +1,9 @@
 ---
 title: "Far-field wireless power harvesting: Nonlinear modeling, rectenna design, and emerging applications"
 collection: publications
-permalink: /publication/2021_PIEEE
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/2022_PIEEE
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-01
 venue: 'Proceedings of the IEEE'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9628167'
